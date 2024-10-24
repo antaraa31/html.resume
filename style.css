@@ -1,0 +1,39 @@
+.gradient-background {
+    background: linear-gradient(300deg, #4e92be, #eae3e8, #8f71e9);
+    background-size: 100% 100%;
+    background: image-set();
+}
+
+.text-h1{
+    font-family: cursive;
+    }
+
+h2{
+    font: 1em sans-serif;
+    
+}
+
+.profile-img {
+    height: 250px;
+    border-radius: 50%;
+  }
+
+.profile-text{
+    color: #210b5b;
+    font-family: cursive
+} 
+
+.contact-button{
+    background-color:#8370e2;
+    border-color: black;
+    font-size: 25px;
+    border-radius: 5%;
+    
+}
+
+.contact-container{
+    background: linear-gradient(300deg, #4e92be, #eae3e8, #8f71e9);
+    background-size: 100% 100%;
+    background: image-set();
+
+}
